@@ -39,6 +39,9 @@ header img{
     padding-left: 3em;
     font-size: 200%;
 }
+.first-section p{
+    margin: auto 2em;
+}
 .second-section p{
     padding: 1em 1em;
 }
@@ -52,6 +55,7 @@ button{
     padding: 1em 2em;
     margin-bottom: 3em;
     margin-top: 2em;
+    cursor: pointer;
     
 }
 .subtitle:nth-child(1) {
@@ -81,6 +85,7 @@ h3{
     }
 .third-section{
     background-color: #e22d0e;
+    margin-bottom: 2em;
 }
 
 .third-section h1{
@@ -112,5 +117,21 @@ h3{
         font-size: 80%;
         font: weight 200;
         padding-bottom: 2em;
+    }
+    .container{
+        border: #dee1e3 1px solid;
+        width: 80%;
+        margin: 1.5em auto;
+    }
+    .container img{
+        width: 100%;
+    }
+    .container h3{
+        font-size: 120%;
+    }
+    .container p{
+        padding-bottom: 2em;
+        padding-left: 1.5em;
+        padding-right: 1.5em;
     }
 
