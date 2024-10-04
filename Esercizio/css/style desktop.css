@@ -112,3 +112,25 @@ footer i{
     color: white;
     padding-bottom: 5em;
 }
+.container{
+    display: inline-block;
+    border: #dee1e3 1px  solid;
+        width: 20%;
+        margin-top: 5em;
+        margin-bottom: 5em;
+        text-align: center;
+        margin-left: 9em;
+    
+        ;
+}
+.container img{
+    width: 100%;
+}
+.container p{
+    padding-bottom: 2em;
+    padding-left: 1.5em;
+    padding-right: 1.5em;}
+    .container h3{
+        font-size: 120%;
+        color: #25a2c3 ;
+    }
