@@ -134,4 +134,31 @@ h3{
         padding-left: 1.5em;
         padding-right: 1.5em;
     }
+    footer{
+        background-color: #25a2c3;
+        height: 400px;
+    }
+    footer h1{
+        color: white;
+        font-weight: bold;
+        font-size: 200%;
+        font-family: "Montserrat";
+        padding-top: 1.5em;
+        margin-bottom: 1em;
+    }
+    footer a{
+        color: white;
+    }
+    footer p{
+        color: white;
+    }
+    footer p:nth-of-type(1){
+        text-decoration: underline;
+    }
+    footer i{
+        margin-right: 4px;
+    }
+    footer hr{
+        margin: 2em 5.5em;
+    }
 
