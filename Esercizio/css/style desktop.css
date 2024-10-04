@@ -41,13 +41,13 @@ header img{
     font-weight: bold;
     border-radius: 5%;
     color: white;
-    border: none;
     margin-bottom: 3em;
     margin-top: 2em;
     margin-left: 67em;
     cursor: pointer;
     padding: 1em 2em;
     margin-bottom: 20em;
+    border: none;
 }
 footer{
     background-color:#25a2c3 ;
@@ -133,4 +133,31 @@ footer i{
     .container h3{
         font-size: 120%;
         color: #25a2c3 ;
+    }
+    .second-section div{
+        display: inline-block;
+        text-align: left;
+    }
+    .second-section img{
+        border-radius: 50%;
+        width: 100%;
+        margin-left: 10em;
+        margin-top: 5em;
+        margin-bottom: 5em;
+    }
+    .second-section h3{
+        margin-left: 15em;
+        margin-bottom: 3em;
+        padding-top: 3em;
+        text-align: left;
+        color: #25a2c3;
+        font-family: "Montserrat";
+        font-weight: bold;
+    }
+    .second-section p{
+        margin-left: 15em;
+
+    }
+    #testo{
+        line-height: 1px;
     }
