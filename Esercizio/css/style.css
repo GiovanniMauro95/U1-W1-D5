@@ -1,1 +1,59 @@
-/* Your styles here */
+body{
+    width: 450px;
+    margin-left: auto;
+    margin-right: auto;
+    font-family: "Open Sans";
+    color: #393d41 ;
+    line-height: 1.65em;
+    font-size: 1.2rem
+}
+div > body{
+    width: 100%;
+    margin: 0 auto;
+}
+header{
+    text-align: center;
+    background-color: black;
+}
+header img{
+    width: 40%;
+    padding-bottom: 30px;
+    padding-top: 30px;
+}
+section{
+    background-image: url(/Esercizio/images/banner.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    text-align: center;
+}
+
+section > h1{
+    color: #25a2c3;
+    font-family:"Montserrat";
+    font-weight: bold;
+    line-height: 1.5em;
+    text-align: center;
+    padding-top: 1em;
+    padding-bottom: 1em;
+    padding-right: 3em;
+    padding-left: 3em;
+    font-size: 200%;
+}
+section p{
+    text-align: center;
+    padding: 1em 1em;
+}
+button{
+    background-color: #f04c2f ;
+    font-family: "Montserrat";
+    font-weight: bold;
+    border-radius: 5%;
+    color: white;
+    border: none;
+    padding: 1em 2em;
+    margin-bottom: 3em;
+    margin-top: 2em;
+
+}
+
