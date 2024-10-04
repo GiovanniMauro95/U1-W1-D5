@@ -160,4 +160,6 @@ footer i{
     }
     #testo{
         line-height: 1px;
+        vertical-align: top;
+        margin-top: 5em;
     }
